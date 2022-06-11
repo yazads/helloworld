@@ -12,7 +12,7 @@ function App() {
 			Welcome
 			<br></br>
 			<Row>
-				<img src={image1} alt={image1} width = {400}/>
+				{/* <img src={image1} alt={image1} width = {400}/> */}
 				<img src={image2} alt={image2} width = {400}/>
 				<img src={image3} alt={image3} width = {400} height={533}/>
 			</Row>
